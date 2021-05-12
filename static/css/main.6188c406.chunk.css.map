@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,2CACF","file":"main.6188c406.chunk.css","sourcesContent":[".App {\n  text-align: center;\n  background: linear-gradient(#e66465, #9198e5);\n}\n"]}
